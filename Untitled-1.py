@@ -1,3 +1,4 @@
+#The Version of Python compiler 3.13.0
 def rgb_to_grayscale_bmp(input_bmp_path, output_bmp_path):
     with open(input_bmp_path,'rb') as f:
         # Read BMP header (first 54 bytes)
