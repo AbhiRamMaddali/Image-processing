@@ -1,3 +1,4 @@
+#The Version of Python compiler 3.13.0
 def adjust_brightness_contrast_bmp(input_path, output_path, alpha=1.0, beta=0):
     """
     Adjusts the brightness and contrast of a 24-bit BMP image manually.
